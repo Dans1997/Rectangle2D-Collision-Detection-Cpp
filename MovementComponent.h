@@ -1,6 +1,9 @@
 #pragma once
 #include "Component.h"
 
+/// <summary>
+/// Movement handling component.
+/// </summary>
 class MovementComponent : public Component
 {
 	private:

@@ -4,7 +4,7 @@
 /// Adds the passed component to the component collection.
 /// </summary>
 /// <param name="componentToAdd"></param>
-void  Entity::TryAddComponent(Component& componentToAdd)
+void Entity::TryAddComponent(Component& componentToAdd)
 {
 	try
 	{
